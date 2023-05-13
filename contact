@@ -1,1 +1,64 @@
-hello
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Metas -->
+	<meta name="wiewport" content="width=device-widith, initial-scale=1.0">
+	<meta name="description" content=" a car wash website that is to ease peoples work by hiring part time jobs">
+	
+	<!-- stylesheet -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+		<script src='script.js'></script>
+		
+		<title>HOME | elitecarshine.com</title>
+<body bgcolor="sky blue">
+    <header>
+		<div class="topnav" id="mytopnav">
+			
+			<a href="contact.html">CONTACT</a>
+			
+			<a href="#avascript:void(0);" class="icon" onclick="myfunction()">
+			<i class="fa fa-bars"></i>
+			</a>
+			</div>
+	</header>
+	<div class="aside-right">
+	<h1 align="center"><font color="silver" size="14" face="gothic">CONTACT US</h1>
+	<img src="file:///C:/Users/JOSE/Desktop/jesus/images/bd.jpg" border="0" align="middle">
+	</div>
+    <form  action="https://formsubmit.co/kasasajose68@email.com" method="POST">
+                <input type="text" name="Name" placeholder="full name" required>
+				<input type="email" name="EMAIL" placeholder="EMAIL" required>
+            <button type="submit">Send</button>
+        </div>
+		<div class="left">
+		<a align="center" href="dailto:+25678771360"><font color="blur">call me</a>
+		</div>
+		<h4 align="center"><font color="silver">EMPLOYEES AND THERE CONTACTS</h4>
+			<p>KASASA JOSEPH BWETE(JOSE) = +256757471360/+256787751360</p>
+			<p>EMAIL = kasasajose68@gmail.com</p>
+			<p>FACEBOOK = KASASA JOSE</P>
+			<P>WATASAPP = +256757471360</P>
+			<P>TWITTER = @Babyjosej</P>
+			<p>TIKTOK = @kasasajose62</p>
+			<p>IMO = Baby Jose</p>
+		    <a href="mailto:kasasajose68@gmail.com">kasasa jose</a>
+			
+</body>
+</html>
+	
+	<footer>
+		<div class="left-footer">
+		<a align="center" href="index.html"><font color="red">HOME</a>
+		</div>
+		<div class="center-footer">
+		<a align="center" href="about.html"><font color="red">ABOUT US</a>
+		</div>
+		<div class="right-footer">
+		<a align="center" href="book.html"><font color="red">BOOK NOW</a>
+		</div>
+		<div class-"copyright">
+		<p align="left"><font color="red">Copyright &copy; 2018-2019 kasasajose.com</p>
+		</div>
+		</footer>
