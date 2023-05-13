@@ -1,1 +1,91 @@
-hello
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Metas -->
+	<meta name="wiewport" content="width=device-widith, initial-scale=1.0">
+	<meta name="description" content=" a car wash website that is to ease peoples work by hiring part time jobs">
+	
+	<!-- stylesheet -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+	<script src='script.js'></script>
+	
+	<title>HOME | elitecarshine.com</title>
+</head>
+<body bgcolor="sky blue">
+    <header>
+		<div class="topnav" id="mytopnav">
+			<a href="about.html">ABOUT</a>
+			<a href="#javascript:void(0);" class="icon" onclick="myfunction()">
+			<i class="fa fa-bars"></i>
+			</a>
+			</div>
+	</header>
+	<div class="aside-left">
+	<h1 align="left"><font color="silver" size="05" face="algerian">WE ARE ALWAYS AT YOUR SERVICE</h1>
+	</div><br>
+	<main>
+	<marquee width="400px" height="200px" behavior="scroll-slow motion" style="border:5px solid silver">
+	<marquee behavior="scroll-slow motion">
+	<div class="aside-center">
+		<h2 align="center"><font color="silver" size="14" face="gothic">THE ELITE CAR SHINE</h2>
+		<p align="center">WATCH THE VIDEOS!!</p>
+		</div>
+		</marquee>
+		</marquee>
+	</main><br><br><br><br><br>
+	<aside>
+		<video width="320" height="440" controls>
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_124529_x264.mp4" type="video/mp4">
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_124529_x264.ogg" type="video/ogg">
+		</video>
+				<video width="320" height="440" controls>
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_125218_x264.mp4" type="video/mp4">
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_125218_x264.ogg" type="video/ogg">
+		</video>
+						<video width="320" height="440" controls>
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_125531_x264.mp4" type="video/mp4">
+		<source src="file:///C:/Users/JOSE/Desktop/jesus/videos/20230106_125531_x264.ogg" type="video/ogg">
+		</video>
+		<br>
+		<P>PLAY ME</P>
+		<audio src="file:///C:/Users/JOSE/Desktop/jesus/music/jose_chameleon_shida_za_dunia_mp3_57200.mp3" controls>
+		</audio><br>
+		<h1 align="center"><font color="red">SERVICES OFFERED</h1>
+		<i>1 Thorough car wash</i><br><br>
+		<i>2 Engine wash</i><br><br>
+		<i>3 Bottom wash</i><br><br>
+		<i>4 Interior wax</i><br><br>
+		<i>5 Exterior polish</i><br><br>
+		<i>6 Tyre polish<i><br><br>
+		<i>7 Vehical servicing</i><br><br>
+		<i>8 Driving </i><br><br>
+	</aside>
+	<i><font color="silver">This washing bay was founded in 2020 by a richman called Allan Senyondo, he then joined politics so he had to sell it out,
+	and so he did, it was hnded over to mustafa the car racer , this one always busyin his rally, so he failed and decided to go back 
+	dubai. sold it now to mr kabuye till 2023. 
+	</i><br><br>
+			<h3 align="center"><font color="red">EMPLOYEES AND THERE CONTACTS</h3>
+			<p>KASASA JOSEPH BWETE (JOSE) = 0757471360/0787751360</p>
+			<P>EMAIL = kasasajose68@gmail.com</p>
+			<p>FACEBOOK = KASASA JOSE</P>
+			<P>WATASAPP = +256757471360</P>
+			<P>TWITTER = @Babyjosej</P>
+		<h3><font color="silver">LOCATION</h3>
+			<i>The elite car shine is located near kasana auto garage in kabowa weraga road, a few meters from enttebe road that goes through to ndeeba  </i>
+			
+	<footer>
+		<div class="left-footer">
+		<a align="center" href="index.html"><font color="red">HOME</a></div>
+		<div class="center-footer">
+		<a align="center" href="contact.html"><font color="red">CONTACT</a></div>
+		<div class="right-footer">
+		<a align="center" href="book.html"><font color="red">BOOK NOW</a></div>
+		<div class-"copyright">
+		<p align="left">Copyright &copy; 2022-2023 kasasajose.com</p>
+		</div>
+		</footer>
+		</body>
+		</html>
+	</footer>
