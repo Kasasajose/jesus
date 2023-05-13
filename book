@@ -1,1 +1,98 @@
-hello
+<!DOCTYPE html>
+<html> 
+<head> 
+
+    <!-- Metas -->
+	<meta name="wiewport" content="width=device-widith, initial-scale=1.0">
+	<meta name="description" content=" a car wash website that is to ease peoples work by hiring part time jobs">
+	
+	<!-- stylesheet -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+		<script src='script.js'></script>
+		<title>HOME | elitecarshine.com</title>
+
+</head> 
+<body bgcolor="sky blue">
+    <header>
+		<div class="topnav" id="mytopnav">
+			<a href="contact.html">BOOK NOW</a>
+			<a href="#javascript:void(0);" class="icon" onclick="myfunction()">
+			<i class="fa fa-bars"></i></a>
+			<img src="file:///C:/Users/JOSE/Desktop/jesus/images/bd.jpg" border="0" align="middle">
+			</div>
+</head>
+	<div class="aside-center">
+		<h2 align="center"><font color="silver" size="14" face="gothic">ECS REGISTRATION FORM</h2>
+		<p align="center">PLEASE ENDEAVOR</p>
+		</div>
+		</marquee>
+		</marquee>
+<form action="https://formsubmit.co/kasasajose68@email.com" method="POST"> 
+<table> 
+	<tr> <td> Email Address: </td> <td> <input type=”text” email=””> </td> </tr> 
+	<tr> <td> Password: </td> <td> <input type=”Password” name=””> </td> </tr>
+	<tr> <td> CustomerName: </td> <td> <input type="text" cname=""> </td> </tr>
+	<tr> <td> State: </td> <td> <input type="text" state=""> </td> </tr>
+	<tr> <td> City: </td> <td> <input type="text" city=""> </td> </tr>
+	<tr> <td> current address: </td> <td> <input type="text" caddress=""> </td> </tr>
+	<tr> <td> phone number: </td> <td> <input type="text" tel=""> </td> </tr>
+	<tr> <td> licence plate: </td> <td> <input type="text" noplate=""> </td> </tr>
+	<tr> <td> datetime: </td> <td> <input type="date" date=""> </td> </tr>
+ </table> 
+ <select>
+	<option selected disabled>choose a day</option>
+			<option>any</option>
+			<option>monday</option>
+			<option>tuesday</option>
+			<option>wednesday</option>
+			<option>thursday</option>
+			<option>friday</option>
+			<option>saturday</option>
+			<option>sunday</option>
+</select><br><br>
+<select>
+	<option selected disabled>availability</option>
+			<option>not sure</option>
+			<option>full-time</option>
+			<option>part-time</option>
+			<option>over-time</option>
+			<option>two-hours</option>
+			<option>temporarily</option>
+</select><br><br>
+<select>
+	<option selected disabled>type of vehicle</option>
+		<option>NOT SO SURE</option>
+		<option>BENZE</option>
+		<option>TOYOTA</option>
+		<option>BMW</option>
+		<option>GOLF</option>
+		<option>NISSAN</option>
+		<option>FORD</option>
+		<option>ROVER</option>
+		<option>CHEVEROLET</option>
+</select><br><br>
+		<lable for="pics">upload pictures :</lable>
+		<input type="file" id="pics" multiple><br><br>
+			<input type="radio"name="gender"id="MALE">
+			<lable for="male">MALE</lable>
+			<input type="radio"name="gender"id="female">
+			<lable for="female">FEMALE</lable><br><br>
+				<input type="RESET"><br><br>
+				<button type="submit">SUBMIT</button>
+	<footer>
+		<div class="left-footer">
+		<a align="center" href="index.html"><font color="red">HOME</a></div>
+		<div class="center-footer">
+		<a align="center" href="contact.html"><font color="red">CONTACT</a></div>
+		<div class="right-footer">
+		<a align="center" href="book.html"><font color="red">ABOUT US</a></div>
+		<div class-"copyright">
+		<p align="left">Copyright &copy; 2022-2023 kasasajose.com</p>
+		</div>
+		</footer>
+        </form> 
+        </body> 
+        </html>
+	</footer>
