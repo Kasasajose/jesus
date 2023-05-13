@@ -1,2 +1,64 @@
-hello
-world
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Metas -->
+	<meta name="wiewport" content="width=device-widith, initial-scale=1.0">
+	<meta name="description" content=" a car wash website that is to ease peoples work by hiring part time jobs">
+	
+	<!-- stylesheet -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="http://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+	<script src='script.js'></script>
+	
+	<title>HOME | elitecarshine.com</title>
+</head>
+<body bgcolor="#SKY BLUE">
+    <header>
+		<div class="topnav" id="mytopnav">
+			<a href="index.html">HOME</a>
+			<a href="contact.html">CONTACT</a>
+			<a href="about.html">ABOUT US</a>
+			<a href="#avascript:void(0);" class="icon" onclick="myfunction()">
+			<i class="fa fa-bars"></i>
+			</a>
+			</div>
+	</header>
+	<h2 align="center"><font color="silver" size="14" face="gothic">THE ELITE CAR SHINE</h2>
+	<h4 align="left"><img src="file:///C:/Users/JOSE/Desktop/jesus/images/bd.jpg" border="0" align="middle">WERE HERE TO SERVE YOU AND KEEP YOUR VEHICLE NEW</h4>
+	<main>
+	</main>
+	<aside>
+	<marquee width="900px" height="100px" behavior="alternate" style="border:5px silver red">
+	<marquee behavior="alternate">
+		<i align="left"><font color="silver" size="11">WHO IS THE ELITE CAR SHINE<i/>
+		</marquee>
+		</marquee>
+		<hr align="center"><font color="#siliver" size="07">WELCOME TO ELITE CAR SHINE<hr>
+		car wash,repair and detailing service<hr>
+			<p><font size="05">THE ELITE CAR SHINE</p> 
+			<p>Is both mobile and based carwash that offers echo-friendly thorough wash to the fullest.</p>
+			<p> hand based and a jet too is used</p>
+		<I align="center"><font size="06">"YOUR CAR IS ALWAYS IN GREAT HANDS WITH US" </I><br>
+		<i align="center"><font size="06">"FULL SERVICE AND EXTERIOR TREATMENTS"</i><br>
+		<I align="center"><fontsize="06">"WE LOVE YOUR CAR AS YOU DO"</I><br>
+		<a align="right" href="book.html"><font color="red">BOOK NOW</a>
+	</aside>
+	
+	<footer>
+		<div class="left-footer">
+		<a align="center" href="contact.html"><font color="red">CONTACT</a>
+		</div>
+		<div class="center-footer">
+		<a align="center" href="about.html"><font color="red">ABOUT US</a>
+		</div>
+		<div class="right-footer">
+		<a align="center" align="right" href="book.html"><font color="red">BOOK NOW</a>
+		</div>
+		<div class-"copyright">
+		<p align="left">Copyright &copy; 2018-2019 kasasajose.com</p>
+		</div>
+		</footer>
+		</body>
+		</html>
+	</footer>
